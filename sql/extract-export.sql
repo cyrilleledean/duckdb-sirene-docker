@@ -1,5 +1,3 @@
-.timer on
-
 -- CREATE TABLE & LOAD nomenclature INSEE activité NAF
 CREATE TABLE activite (
     code_5 VARCHAR,
