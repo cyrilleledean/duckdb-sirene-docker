@@ -1,0 +1,16 @@
+version: '3.9'
+
+services:
+
+  extract:
+    build: .
+    image: sirene-duckdb
+    volumes:
+      - ./sirene:/app/sirene
+      - ./nomenclatures:/app/nomenclatures
+      - ./sql:/app/sql
+      - ./export:/app/export
+    environment:
+      - STOCK_ETABLISSEMENT=${STOCK_ETABLISSEMENT}
+      - STOCK_UNITELEGALE=${STOCK_UNITELEGALE}
+      - DUCKDB_CLI=${DUCKDB_CLI}

@@ -1,0 +1,261 @@
+code_3,code_2,code_1,libelle_3,libelle_2,libelle_1
+0000,00,0,Organisme de placement collectif en valeurs mobilières sans personnalité morale,Organisme de placement collectif en valeurs mobilières sans personnalité morale,Organisme de placement collectif en valeurs mobilières sans personnalité morale
+1000,10,1,Entrepreneur individuel,Entrepreneur individuel,Entrepreneur individuel
+2110,21,2,Indivision entre personnes physiques,Indivision,Groupement de droit privé non doté de la personnalité morale
+2120,21,2,Indivision avec personne morale,Indivision,Groupement de droit privé non doté de la personnalité morale
+2210,22,2,Société créée de fait entre personnes physiques,Société créée de fait,Groupement de droit privé non doté de la personnalité morale
+2220,22,2,Société créée de fait avec personne morale,Société créée de fait,Groupement de droit privé non doté de la personnalité morale
+2310,23,2,Société en participation entre personnes physiques,Société en participation,Groupement de droit privé non doté de la personnalité morale
+2320,23,2,Société en participation avec personne morale,Société en participation,Groupement de droit privé non doté de la personnalité morale
+2385,23,2,Société en participation de professions libérales,Société en participation,Groupement de droit privé non doté de la personnalité morale
+2400,24,2,Fiducie,Fiducie,Groupement de droit privé non doté de la personnalité morale
+2700,27,2,Paroisse hors zone concordataire,Paroisse hors zone concordataire,Groupement de droit privé non doté de la personnalité morale
+2800,28,2,Assujetti unique à la TVA,Assujetti unique à la TVA,Groupement de droit privé non doté de la personnalité morale
+2900,29,2,Autre groupement de droit privé non doté de la personnalité morale,Autre groupement de droit privé non doté de la personnalité morale,Groupement de droit privé non doté de la personnalité morale
+3110,31,3,Représentation ou agence commerciale d'état ou organisme public étranger immatriculé au RCS,Personne morale de droit étranger immatriculée au RCS (registre du commerce et des sociétés),Personne morale de droit étranger
+3120,31,3,Société commerciale étrangère immatriculée au RCS,Personne morale de droit étranger immatriculée au RCS (registre du commerce et des sociétés),Personne morale de droit étranger
+3205,32,3,Organisation internationale,Personne morale de droit étranger non immatriculée au RCS,Personne morale de droit étranger
+3210,32,3,État collectivité ou établissement public étranger,Personne morale de droit étranger non immatriculée au RCS,Personne morale de droit étranger
+3220,32,3,Société étrangère non immatriculée au RCS,Personne morale de droit étranger non immatriculée au RCS,Personne morale de droit étranger
+3290,32,3,Autre personne morale de droit étranger,Personne morale de droit étranger non immatriculée au RCS,Personne morale de droit étranger
+4110,41,4,Établissement public national à caractère industriel ou commercial doté d'un comptable public,Etablissement public ou régie à caractère industriel ou commercial,Personne morale de droit public soumise au droit commercial
+4120,41,4,Établissement public national à caractère industriel ou commercial non doté d'un comptable public,Etablissement public ou régie à caractère industriel ou commercial,Personne morale de droit public soumise au droit commercial
+4130,41,4,Exploitant public,Etablissement public ou régie à caractère industriel ou commercial,Personne morale de droit public soumise au droit commercial
+4140,41,4,Établissement public local à caractère industriel ou commercial,Etablissement public ou régie à caractère industriel ou commercial,Personne morale de droit public soumise au droit commercial
+4150,41,4,Régie d'une collectivité locale à caractère industriel ou commercial,Etablissement public ou régie à caractère industriel ou commercial,Personne morale de droit public soumise au droit commercial
+4160,41,4,Institution Banque de France,Etablissement public ou régie à caractère industriel ou commercial,Personne morale de droit public soumise au droit commercial
+5191,51,5,Société de caution mutuelle,Société coopérative commerciale particulière,Société commerciale
+5192,51,5,Société coopérative de banque populaire,Société coopérative commerciale particulière,Société commerciale
+5193,51,5,Caisse de crédit maritime mutuel,Société coopérative commerciale particulière,Société commerciale
+5194,51,5,Caisse (fédérale) de crédit mutuel,Société coopérative commerciale particulière,Société commerciale
+5195,51,5,Association coopérative inscrite (droit local Alsace Moselle),Société coopérative commerciale particulière,Société commerciale
+5196,51,5,Caisse d'épargne et de prévoyance à forme coopérative,Société coopérative commerciale particulière,Société commerciale
+5202,52,5,Société en nom collectif,Société en nom collectif,Société commerciale
+5203,52,5,Société en nom collectif coopérative,Société en nom collectif,Société commerciale
+5306,53,5,Société en commandite simple,Société en commandite,Société commerciale
+5307,53,5,Société en commandite simple coopérative,Société en commandite,Société commerciale
+5308,53,5,Société en commandite par actions,Société en commandite,Société commerciale
+5309,53,5,Société en commandite par actions coopérative,Société en commandite,Société commerciale
+5310,53,5,Société en libre partenariat (SLP),Société en commandite,Société commerciale
+5370,53,5,Société de Participations Financières de Profession Libérale Société en commandite par actions (SPFPL SCA),Société en commandite,Société commerciale
+5385,53,5,Société d'exercice libéral en commandite par actions,Société en commandite,Société commerciale
+5410,54,5,SARL nationale,Société à responsabilité limitée (SARL),Société commerciale
+5415,54,5,SARL d'économie mixte,Société à responsabilité limitée (SARL),Société commerciale
+5422,54,5,SARL immobilière pour le commerce et l'industrie (SICOMI),Société à responsabilité limitée (SARL),Société commerciale
+5426,54,5,SARL immobilière de gestion,Société à responsabilité limitée (SARL),Société commerciale
+5430,54,5,SARL d'aménagement foncier et d'équipement rural (SAFER),Société à responsabilité limitée (SARL),Société commerciale
+5431,54,5,SARL mixte d'intérêt agricole (SMIA),Société à responsabilité limitée (SARL),Société commerciale
+5432,54,5,SARL d'intérêt collectif agricole (SICA),Société à responsabilité limitée (SARL),Société commerciale
+5442,54,5,SARL d'attribution,Société à responsabilité limitée (SARL),Société commerciale
+5443,54,5,SARL coopérative de construction,Société à responsabilité limitée (SARL),Société commerciale
+5451,54,5,SARL coopérative de consommation,Société à responsabilité limitée (SARL),Société commerciale
+5453,54,5,SARL coopérative artisanale,Société à responsabilité limitée (SARL),Société commerciale
+5454,54,5,SARL coopérative d'intérêt maritime,Société à responsabilité limitée (SARL),Société commerciale
+5455,54,5,SARL coopérative de transport,Société à responsabilité limitée (SARL),Société commerciale
+5458,54,5,SARL coopérative de production (SCOP),Société à responsabilité limitée (SARL),Société commerciale
+5459,54,5,SARL union de sociétés coopératives,Société à responsabilité limitée (SARL),Société commerciale
+5460,54,5,Autre SARL coopérative,Société à responsabilité limitée (SARL),Société commerciale
+5470,54,5,Société de Participations Financières de Profession Libérale Société à responsabilité limitée (SPFPL SARL),Société à responsabilité limitée (SARL),Société commerciale
+5485,54,5,Société d'exercice libéral à responsabilité limitée,Société à responsabilité limitée (SARL),Société commerciale
+5499,54,5,Société à responsabilité limitée (sans autre indication),Société à responsabilité limitée (SARL),Société commerciale
+5505,55,5,SA à participation ouvrière à conseil d'administration,Société anonyme à conseil d'administration,Société commerciale
+5510,55,5,SA nationale à conseil d'administration,Société anonyme à conseil d'administration,Société commerciale
+5515,55,5,SA d'économie mixte à conseil d'administration,Société anonyme à conseil d'administration,Société commerciale
+5520,55,5,Fonds à forme sociétale à conseil d'administration,Société anonyme à conseil d'administration,Société commerciale
+5522,55,5,SA immobilière pour le commerce et l'industrie (SICOMI) à conseil d'administration,Société anonyme à conseil d'administration,Société commerciale
+5525,55,5,SA immobilière d'investissement à conseil d'administration,Société anonyme à conseil d'administration,Société commerciale
+5530,55,5,SA d'aménagement foncier et d'équipement rural (SAFER) à conseil d'administration,Société anonyme à conseil d'administration,Société commerciale
+5531,55,5,Société anonyme mixte d'intérêt agricole (SMIA) à conseil d'administration,Société anonyme à conseil d'administration,Société commerciale
+5532,55,5,SA d'intérêt collectif agricole (SICA) à conseil d'administration,Société anonyme à conseil d'administration,Société commerciale
+5542,55,5,SA d'attribution à conseil d'administration,Société anonyme à conseil d'administration,Société commerciale
+5543,55,5,SA coopérative de construction à conseil d'administration,Société anonyme à conseil d'administration,Société commerciale
+5546,55,5,SA de HLM à conseil d'administration,Société anonyme à conseil d'administration,Société commerciale
+5547,55,5,SA coopérative de production de HLM à conseil d'administration,Société anonyme à conseil d'administration,Société commerciale
+5548,55,5,SA de crédit immobilier à conseil d'administration,Société anonyme à conseil d'administration,Société commerciale
+5551,55,5,SA coopérative de consommation à conseil d'administration,Société anonyme à conseil d'administration,Société commerciale
+5552,55,5,SA coopérative de commerçants-détaillants à conseil d'administration,Société anonyme à conseil d'administration,Société commerciale
+5553,55,5,SA coopérative artisanale à conseil d'administration,Société anonyme à conseil d'administration,Société commerciale
+5554,55,5,SA coopérative (d'intérêt) maritime à conseil d'administration,Société anonyme à conseil d'administration,Société commerciale
+5555,55,5,SA coopérative de transport à conseil d'administration,Société anonyme à conseil d'administration,Société commerciale
+5558,55,5,SA coopérative de production  (SCOP) à conseil d'administration,Société anonyme à conseil d'administration,Société commerciale
+5559,55,5,SA union de sociétés coopératives à conseil d'administration,Société anonyme à conseil d'administration,Société commerciale
+5560,55,5,Autre SA coopérative à conseil d'administration,Société anonyme à conseil d'administration,Société commerciale
+5570,55,5,Société de Participations Financières de Profession Libérale Société anonyme à conseil d'administration (SPFPL SA à conseil d'administration),Société anonyme à conseil d'administration,Société commerciale
+5585,55,5,Société d'exercice libéral à forme anonyme à conseil d'administration,Société anonyme à conseil d'administration,Société commerciale
+5599,55,5,SA à conseil d'administration (s.a.i.),Société anonyme à conseil d'administration,Société commerciale
+5605,56,5,SA à participation ouvrière à directoire,Société anonyme à directoire,Société commerciale
+5610,56,5,SA nationale à directoire,Société anonyme à directoire,Société commerciale
+5615,56,5,SA d'économie mixte à directoire,Société anonyme à directoire,Société commerciale
+5620,56,5,Fonds à forme sociétale à directoire,Société anonyme à directoire,Société commerciale
+5622,56,5,SA immobilière pour le commerce et l'industrie (SICOMI) à directoire,Société anonyme à directoire,Société commerciale
+5625,56,5,SA immobilière d'investissement à directoire,Société anonyme à directoire,Société commerciale
+5630,56,5,Safer anonyme à directoire,Société anonyme à directoire,Société commerciale
+5631,56,5,SA mixte d'intérêt agricole (SMIA),Société anonyme à directoire,Société commerciale
+5632,56,5,SA d'intérêt collectif agricole (SICA),Société anonyme à directoire,Société commerciale
+5642,56,5,SA d'attribution à directoire,Société anonyme à directoire,Société commerciale
+5643,56,5,SA coopérative de construction à directoire,Société anonyme à directoire,Société commerciale
+5646,56,5,SA de HLM à directoire,Société anonyme à directoire,Société commerciale
+5647,56,5,Société coopérative de production de HLM anonyme à directoire,Société anonyme à directoire,Société commerciale
+5648,56,5,SA de crédit immobilier à directoire,Société anonyme à directoire,Société commerciale
+5651,56,5,SA coopérative de consommation à directoire,Société anonyme à directoire,Société commerciale
+5652,56,5,SA coopérative de commerçants-détaillants à directoire,Société anonyme à directoire,Société commerciale
+5653,56,5,SA coopérative artisanale à directoire,Société anonyme à directoire,Société commerciale
+5654,56,5,SA coopérative d'intérêt maritime à directoire,Société anonyme à directoire,Société commerciale
+5655,56,5,SA coopérative de transport à directoire,Société anonyme à directoire,Société commerciale
+5658,56,5,SA coopérative de production (SCOP) à directoire,Société anonyme à directoire,Société commerciale
+5659,56,5,SA union de sociétés coopératives à directoire,Société anonyme à directoire,Société commerciale
+5660,56,5,Autre SA coopérative à directoire,Société anonyme à directoire,Société commerciale
+5670,56,5,Société de Participations Financières de Profession Libérale Société anonyme à Directoire (SPFPL SA à directoire),Société anonyme à directoire,Société commerciale
+5685,56,5,Société d'exercice libéral à forme anonyme à directoire,Société anonyme à directoire,Société commerciale
+5699,56,5,SA à directoire (s.a.i.),Société anonyme à directoire,Société commerciale
+5710,57,5,SAS société par actions simplifiée,Société par actions simplifiée,Société commerciale
+5770,57,5,Société de Participations Financières de Profession Libérale Société par actions simplifiée (SPFPL SAS),Société par actions simplifiée,Société commerciale
+5785,57,5,Société d'exercice libéral par action simplifiée,Société par actions simplifiée,Société commerciale
+5800,58,5,Société européenne,Société européenne,Société commerciale
+6100,61,6,Caisse d'Épargne et de Prévoyance,Caisse d'épargne et de prévoyance,Autre personne morale immatriculée au RCS
+6210,62,6,Groupement européen d'intérêt économique (GEIE),Groupement d'intérêt économique,Autre personne morale immatriculée au RCS
+6220,62,6,Groupement d'intérêt économique (GIE),Groupement d'intérêt économique,Autre personne morale immatriculée au RCS
+6316,63,6,Coopérative d'utilisation de matériel agricole en commun (CUMA),Société coopérative agricole,Autre personne morale immatriculée au RCS
+6317,63,6,Société coopérative agricole,Société coopérative agricole,Autre personne morale immatriculée au RCS
+6318,63,6,Union de sociétés coopératives agricoles,Société coopérative agricole,Autre personne morale immatriculée au RCS
+6411,64,6,Société d'assurance à forme mutuelle,Société d'assurance mutuelle,Autre personne morale immatriculée au RCS
+6511,65,6,Sociétés Interprofessionnelles de Soins Ambulatoires,Société civile,Autre personne morale immatriculée au RCS
+6521,65,6,Société civile de placement collectif immobilier (SCPI),Société civile,Autre personne morale immatriculée au RCS
+6532,65,6,Société civile d'intérêt collectif agricole (SICA),Société civile,Autre personne morale immatriculée au RCS
+6533,65,6,Groupement agricole d'exploitation en commun (GAEC),Société civile,Autre personne morale immatriculée au RCS
+6534,65,6,Groupement foncier agricole,Société civile,Autre personne morale immatriculée au RCS
+6535,65,6,Groupement agricole foncier,Société civile,Autre personne morale immatriculée au RCS
+6536,65,6,Groupement forestier,Société civile,Autre personne morale immatriculée au RCS
+6537,65,6,Groupement pastoral,Société civile,Autre personne morale immatriculée au RCS
+6538,65,6,Groupement foncier et rural,Société civile,Autre personne morale immatriculée au RCS
+6539,65,6,Société civile foncière,Société civile,Autre personne morale immatriculée au RCS
+6540,65,6,Société civile immobilière,Société civile,Autre personne morale immatriculée au RCS
+6541,65,6,Société civile immobilière de construction-vente,Société civile,Autre personne morale immatriculée au RCS
+6542,65,6,Société civile d'attribution,Société civile,Autre personne morale immatriculée au RCS
+6543,65,6,Société civile coopérative de construction,Société civile,Autre personne morale immatriculée au RCS
+6544,65,6,Société civile immobilière d' accession progressive à la propriété,Société civile,Autre personne morale immatriculée au RCS
+6551,65,6,Société civile coopérative de consommation,Société civile,Autre personne morale immatriculée au RCS
+6554,65,6,Société civile coopérative d'intérêt maritime,Société civile,Autre personne morale immatriculée au RCS
+6558,65,6,Société civile coopérative entre médecins,Société civile,Autre personne morale immatriculée au RCS
+6560,65,6,Autre société civile coopérative,Société civile,Autre personne morale immatriculée au RCS
+6561,65,6,SCP d'avocats,Société civile,Autre personne morale immatriculée au RCS
+6562,65,6,SCP d'avocats aux conseils,Société civile,Autre personne morale immatriculée au RCS
+6563,65,6,SCP d'avoués d'appel,Société civile,Autre personne morale immatriculée au RCS
+6564,65,6,SCP d'huissiers,Société civile,Autre personne morale immatriculée au RCS
+6565,65,6,SCP de notaires,Société civile,Autre personne morale immatriculée au RCS
+6566,65,6,SCP de commissaires-priseurs,Société civile,Autre personne morale immatriculée au RCS
+6567,65,6,SCP de greffiers de tribunal de commerce,Société civile,Autre personne morale immatriculée au RCS
+6568,65,6,SCP de conseils juridiques,Société civile,Autre personne morale immatriculée au RCS
+6569,65,6,SCP de commissaires aux comptes,Société civile,Autre personne morale immatriculée au RCS
+6571,65,6,SCP de médecins,Société civile,Autre personne morale immatriculée au RCS
+6572,65,6,SCP de dentistes,Société civile,Autre personne morale immatriculée au RCS
+6573,65,6,SCP d'infirmiers,Société civile,Autre personne morale immatriculée au RCS
+6574,65,6,SCP de masseurs-kinésithérapeutes,Société civile,Autre personne morale immatriculée au RCS
+6575,65,6,SCP de directeurs de laboratoire d'analyse médicale,Société civile,Autre personne morale immatriculée au RCS
+6576,65,6,SCP de vétérinaires,Société civile,Autre personne morale immatriculée au RCS
+6577,65,6,SCP de géomètres experts,Société civile,Autre personne morale immatriculée au RCS
+6578,65,6,SCP d'architectes,Société civile,Autre personne morale immatriculée au RCS
+6585,65,6,Autre société civile professionnelle,Société civile,Autre personne morale immatriculée au RCS
+6589,65,6,Société civile de moyens,Société civile,Autre personne morale immatriculée au RCS
+6595,65,6,Caisse locale de crédit mutuel,Société civile,Autre personne morale immatriculée au RCS
+6596,65,6,Caisse de crédit agricole mutuel,Société civile,Autre personne morale immatriculée au RCS
+6597,65,6,Société civile d'exploitation agricole,Société civile,Autre personne morale immatriculée au RCS
+6598,65,6,Exploitation agricole à responsabilité limitée,Société civile,Autre personne morale immatriculée au RCS
+6599,65,6,Autre société civile,Société civile,Autre personne morale immatriculée au RCS
+6901,69,6,Autre personne de droit privé inscrite au registre du commerce et des sociétés,Autre personne morale de droit privé inscrite au registre du commerce et des sociétés,Autre personne morale immatriculée au RCS
+7111,71,7,Autorité constitutionnelle,Administration de l'état,Personne morale et organisme soumis au droit administratif
+7112,71,7,Autorité administrative ou publique indépendante,Administration de l'état,Personne morale et organisme soumis au droit administratif
+7113,71,7,Ministère,Administration de l'état,Personne morale et organisme soumis au droit administratif
+7120,71,7,Service central d'un ministère,Administration de l'état,Personne morale et organisme soumis au droit administratif
+7150,71,7,Service du ministère de la Défense,Administration de l'état,Personne morale et organisme soumis au droit administratif
+7160,71,7,Service déconcentré à compétence nationale d'un ministère (hors Défense),Administration de l'état,Personne morale et organisme soumis au droit administratif
+7171,71,7,Service déconcentré de l'État à compétence (inter) régionale,Administration de l'état,Personne morale et organisme soumis au droit administratif
+7172,71,7,Service déconcentré de l'État à compétence (inter) départementale,Administration de l'état,Personne morale et organisme soumis au droit administratif
+7179,71,7,(Autre) Service déconcentré de l'État à compétence territoriale,Administration de l'état,Personne morale et organisme soumis au droit administratif
+7190,71,7,Ecole nationale non dotée de la personnalité morale,Administration de l'état,Personne morale et organisme soumis au droit administratif
+7210,72,7,Commune et commune nouvelle,Collectivité territoriale,Personne morale et organisme soumis au droit administratif
+7220,72,7,Département,Collectivité territoriale,Personne morale et organisme soumis au droit administratif
+7225,72,7,Collectivité et territoire d'Outre Mer,Collectivité territoriale,Personne morale et organisme soumis au droit administratif
+7229,72,7,(Autre) Collectivité territoriale,Collectivité territoriale,Personne morale et organisme soumis au droit administratif
+7230,72,7,Région,Collectivité territoriale,Personne morale et organisme soumis au droit administratif
+7312,73,7,Commune associée et commune déléguée,Etablissement public administratif,Personne morale et organisme soumis au droit administratif
+7313,73,7,Section de commune,Etablissement public administratif,Personne morale et organisme soumis au droit administratif
+7314,73,7,Ensemble urbain,Etablissement public administratif,Personne morale et organisme soumis au droit administratif
+7321,73,7,Association syndicale autorisée,Etablissement public administratif,Personne morale et organisme soumis au droit administratif
+7322,73,7,Association foncière urbaine,Etablissement public administratif,Personne morale et organisme soumis au droit administratif
+7323,73,7,Association foncière de remembrement,Etablissement public administratif,Personne morale et organisme soumis au droit administratif
+7331,73,7,Établissement public local d'enseignement,Etablissement public administratif,Personne morale et organisme soumis au droit administratif
+7340,73,7,Pôle métropolitain,Etablissement public administratif,Personne morale et organisme soumis au droit administratif
+7341,73,7,Secteur de commune,Etablissement public administratif,Personne morale et organisme soumis au droit administratif
+7342,73,7,District urbain,Etablissement public administratif,Personne morale et organisme soumis au droit administratif
+7343,73,7,Communauté urbaine,Etablissement public administratif,Personne morale et organisme soumis au droit administratif
+7344,73,7,Métropole,Etablissement public administratif,Personne morale et organisme soumis au droit administratif
+7345,73,7,Syndicat intercommunal à vocation multiple (SIVOM),Etablissement public administratif,Personne morale et organisme soumis au droit administratif
+7346,73,7,Communauté de communes,Etablissement public administratif,Personne morale et organisme soumis au droit administratif
+7347,73,7,Communauté de villes,Etablissement public administratif,Personne morale et organisme soumis au droit administratif
+7348,73,7,Communauté d'agglomération,Etablissement public administratif,Personne morale et organisme soumis au droit administratif
+7349,73,7,Autre établissement public local de coopération non spécialisé ou entente,Etablissement public administratif,Personne morale et organisme soumis au droit administratif
+7351,73,7,Institution interdépartementale ou entente,Etablissement public administratif,Personne morale et organisme soumis au droit administratif
+7352,73,7,Institution interrégionale ou entente,Etablissement public administratif,Personne morale et organisme soumis au droit administratif
+7353,73,7,Syndicat intercommunal à vocation unique (SIVU),Etablissement public administratif,Personne morale et organisme soumis au droit administratif
+7354,73,7,Syndicat mixte fermé,Etablissement public administratif,Personne morale et organisme soumis au droit administratif
+7355,73,7,Syndicat mixte ouvert,Etablissement public administratif,Personne morale et organisme soumis au droit administratif
+7356,73,7,Commission syndicale pour la gestion des biens indivis des communes,Etablissement public administratif,Personne morale et organisme soumis au droit administratif
+7357,73,7,Pôle d'équilibre territorial et rural (PETR),Etablissement public administratif,Personne morale et organisme soumis au droit administratif
+7361,73,7,Centre communal d'action sociale,Etablissement public administratif,Personne morale et organisme soumis au droit administratif
+7362,73,7,Caisse des écoles,Etablissement public administratif,Personne morale et organisme soumis au droit administratif
+7363,73,7,Caisse de crédit municipal,Etablissement public administratif,Personne morale et organisme soumis au droit administratif
+7364,73,7,Établissement d'hospitalisation,Etablissement public administratif,Personne morale et organisme soumis au droit administratif
+7365,73,7,Syndicat inter hospitalier,Etablissement public administratif,Personne morale et organisme soumis au droit administratif
+7366,73,7,Établissement public local social et médico-social,Etablissement public administratif,Personne morale et organisme soumis au droit administratif
+7367,73,7,Centre Intercommunal d'action sociale (CIAS),Etablissement public administratif,Personne morale et organisme soumis au droit administratif
+7371,73,7,Office public d'habitation à loyer modéré (OPHLM),Etablissement public administratif,Personne morale et organisme soumis au droit administratif
+7372,73,7,Service départemental d'incendie et de secours (SDIS),Etablissement public administratif,Personne morale et organisme soumis au droit administratif
+7373,73,7,Établissement public local culturel,Etablissement public administratif,Personne morale et organisme soumis au droit administratif
+7378,73,7,Régie d'une collectivité locale à caractère administratif,Etablissement public administratif,Personne morale et organisme soumis au droit administratif
+7379,73,7,(Autre) Établissement public administratif local,Etablissement public administratif,Personne morale et organisme soumis au droit administratif
+7381,73,7,Organisme consulaire,Etablissement public administratif,Personne morale et organisme soumis au droit administratif
+7382,73,7,Établissement public national ayant fonction d'administration centrale,Etablissement public administratif,Personne morale et organisme soumis au droit administratif
+7383,73,7,Établissement public national à caractère scientifique culturel et professionnel,Etablissement public administratif,Personne morale et organisme soumis au droit administratif
+7384,73,7,Autre établissement public national d'enseignement,Etablissement public administratif,Personne morale et organisme soumis au droit administratif
+7385,73,7,Autre établissement public national administratif à compétence territoriale limitée,Etablissement public administratif,Personne morale et organisme soumis au droit administratif
+7389,73,7,Établissement public national à caractère administratif,Etablissement public administratif,Personne morale et organisme soumis au droit administratif
+7410,74,7,Groupement d'intérêt public (GIP),Autre personne morale de droit public administratif,Personne morale et organisme soumis au droit administratif
+7430,74,7,Établissement public des cultes d'Alsace-Lorraine,Autre personne morale de droit public administratif,Personne morale et organisme soumis au droit administratif
+7450,74,7,Etablissement public administratif cercle et foyer dans les armées,Autre personne morale de droit public administratif,Personne morale et organisme soumis au droit administratif
+7470,74,7,Groupement de coopération sanitaire à gestion publique,Autre personne morale de droit public administratif,Personne morale et organisme soumis au droit administratif
+7490,74,7,Autre personne morale de droit administratif,Autre personne morale de droit public administratif,Personne morale et organisme soumis au droit administratif
+8110,81,8,Régime général de la Sécurité Sociale,Organisme gérant un régime de protection sociale à adhésion obligatoire,Organisme privé spécialisé
+8120,81,8,Régime spécial de Sécurité Sociale,Organisme gérant un régime de protection sociale à adhésion obligatoire,Organisme privé spécialisé
+8130,81,8,Institution de retraite complémentaire,Organisme gérant un régime de protection sociale à adhésion obligatoire,Organisme privé spécialisé
+8140,81,8,Mutualité sociale agricole,Organisme gérant un régime de protection sociale à adhésion obligatoire,Organisme privé spécialisé
+8150,81,8,Régime maladie des non-salariés non agricoles,Organisme gérant un régime de protection sociale à adhésion obligatoire,Organisme privé spécialisé
+8160,81,8,Régime vieillesse ne dépendant pas du régime général de la Sécurité Sociale,Organisme gérant un régime de protection sociale à adhésion obligatoire,Organisme privé spécialisé
+8170,81,8,Régime d'assurance chômage,Organisme gérant un régime de protection sociale à adhésion obligatoire,Organisme privé spécialisé
+8190,81,8,Autre régime de prévoyance sociale,Organisme gérant un régime de protection sociale à adhésion obligatoire,Organisme privé spécialisé
+8210,82,8,Mutuelle,Organisme mutualiste,Organisme privé spécialisé
+8250,82,8,Assurance mutuelle agricole,Organisme mutualiste,Organisme privé spécialisé
+8290,82,8,Autre organisme mutualiste,Organisme mutualiste,Organisme privé spécialisé
+8310,83,8,Comité social économique d’entreprise,Comité d'entreprise,Organisme privé spécialisé
+8311,83,8,Comité social économique d'établissement,Comité d'entreprise,Organisme privé spécialisé
+8410,84,8,Syndicat de salariés,Organisme professionnel,Organisme privé spécialisé
+8420,84,8,Syndicat patronal,Organisme professionnel,Organisme privé spécialisé
+8450,84,8,Ordre professionnel ou assimilé,Organisme professionnel,Organisme privé spécialisé
+8470,84,8,Centre technique industriel ou comité professionnel du développement économique,Organisme professionnel,Organisme privé spécialisé
+8490,84,8,Autre organisme professionnel,Organisme professionnel,Organisme privé spécialisé
+8510,85,8,Institution de prévoyance,Organisme de retraite à adhésion non obligatoire,Organisme privé spécialisé
+8520,85,8,Institution de retraite supplémentaire,Organisme de retraite à adhésion non obligatoire,Organisme privé spécialisé
+9110,91,9,Syndicat de copropriété,Syndicat de propriétaires,Groupement de droit privé
+9150,91,9,Association syndicale libre,Syndicat de propriétaires,Groupement de droit privé
+9210,92,9,Association non déclarée,Association loi 1901 ou assimilé,Groupement de droit privé
+9220,92,9,Association déclarée,Association loi 1901 ou assimilé,Groupement de droit privé
+9221,92,9,Association déclarée d'insertion par l'économique,Association loi 1901 ou assimilé,Groupement de droit privé
+9222,92,9,Association intermédiaire,Association loi 1901 ou assimilé,Groupement de droit privé
+9223,92,9,Groupement d'employeurs,Association loi 1901 ou assimilé,Groupement de droit privé
+9224,92,9,Association d'avocats à responsabilité professionnelle individuelle,Association loi 1901 ou assimilé,Groupement de droit privé
+9230,92,9,Association déclarée reconnue d'utilité publique,Association loi 1901 ou assimilé,Groupement de droit privé
+9240,92,9,Congrégation,Association loi 1901 ou assimilé,Groupement de droit privé
+9260,92,9,Association de droit local (Bas-Rhin Haut-Rhin et Moselle),Association loi 1901 ou assimilé,Groupement de droit privé
+9300,93,9,Fondation,Fondation,Groupement de droit privé
+9900,99,9,Autre personne morale de droit privé,Autre personne morale de droit privé,Groupement de droit privé
+9970,99,9,Groupement de coopération sanitaire à gestion privée,Autre personne morale de droit privé,Groupement de droit privé
